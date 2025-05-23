@@ -1,0 +1,11 @@
+# robots.txt zu http://www.example.org/
+# verbieten aller rechtlichen seiten!
+# User-agent: UniversalRobot/1.0
+# User-agent: mein-Robot
+# Disallow: /quellen/dtd/
+
+User-agent: *
+Disallow: /agb.html
+Disallow: /impressum.html
+Disallow: /datenschutz.html
+Disallow: /widerruf.html
